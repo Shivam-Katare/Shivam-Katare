@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shivam-Katare
 - 👀 I’m interested in Web Development.
+- 👨‍💻 Love 😍 Open Source.
 - 🌱 I’m currently learning DevOps, Data Structures.
-- 💞️ Open to Collaborate.
-- 👨‍💻 Open Source Contributer.
-- 👨‍💻 Skills : Java, JavaScript, MongoDb, Mongoose, Node JS, Express JS, Bootstrap, React, Python, DSA, Html, CSS.
+- 💞️ Open to Collaborate.Contact me- katare27451@gmail.com
+- 👨‍💻 Skills : Java, JavaScript, MongoDb, Mongoose, Node JS, Express JS, Bootstrap, React, Python, Html, CSS.
 - 🏫 Qualification : 3rd Year Student of BCA at APS University.
 
 <!---
