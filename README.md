@@ -1,12 +1,11 @@
 # :wave: Hello <b>developers</b>, I am <b>Shivam Katare</b>
 
-A Self Taught developer and builder in full stack web development, open source contributor. I highly work on my skills,and share my knowledge. 
-I work in javascript, with frontend and backend tools, java. Eager to learn new technologies and excited to share my learnings.
+I am 3rd year undergraduate [T-shaped] web developer, I love to contribute to open source projects and, love to share my learnings in public, I am always be eager to learn new technologies and ready to try them out. 
 
 # 💫About Me :
-- 🧑: I am interested in Web Development.
-- :earth_africa:I love to cotribute to open source projects.
-- 💻: I am currently learning about DevOps and Data Structures.
+- 🧑 I am interested in Web Development.
+- :earth_africa: I love to cotribute to open source projects.
+- 💻 I am currently learning about DevOps and Data Structures.
 - :handshake: If you want any collaboration feel free to mail me at katare27451@gmail.com.
 - :v: I'm open to opportunities.
 - 🏫 3rd year undergraduate student.
@@ -15,7 +14,7 @@ I work in javascript, with frontend and backend tools, java. Eager to learn new 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logoColor=white)](https://twitter.com/Shivamkatare_27) 
 [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/shivam-katare)
-
+[![Mail me](https://img.shields.io/badge/Mail%20me-%23ED8B00.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)](katare27451@gmail.com)
 
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
