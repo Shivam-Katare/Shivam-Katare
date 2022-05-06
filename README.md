@@ -1,12 +1,15 @@
 # :wave: Hello <b>developers</b>, I am <b>Shivam Katare</b>
 
-I am 3rd year undergraduate [T-shaped] web developer, I love to contribute to open source projects and, love to share my learnings in public, I am always be eager to learn new technologies and ready to try them out. 
+I am 3rd year undergraduate [T-shaped] web developer, Love to contribute to open source projects and, Love to share my learnings in public.
+
+🟠 Hungry😋 for More📚 Knowledge 🤠
+🔵 I am always be eager to learn new technologies and ready to try them out. 
 
 # 💫About Me :
 - 🧑 I am interested in Web Development.
 - :earth_africa: I love to cotribute to open source projects.
 - 💻 I am currently learning about DevOps and Data Structures.
-- :handshake: If you want any collaboration feel free to mail me at katare27451@gmail.com.
+- :handshake: Fell free to mail me at katare27451@gmail.com for any collaboration.
 - :v: I'm open to opportunities.
 - 🏫 3rd year undergraduate student.
 
@@ -14,7 +17,7 @@ I am 3rd year undergraduate [T-shaped] web developer, I love to contribute to op
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logoColor=white)](https://twitter.com/Shivamkatare_27) 
 [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/shivam-katare)
-[![Mail me](https://img.shields.io/badge/Mail%20me-%23ED8B00.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)](katare27451@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23ED8B00.svg?style=for-the-badge&logo=circle&logoColor=white&color=blue)](https://shivam-katare.github.io/ShivamKatare_Portfolio/)
 
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
