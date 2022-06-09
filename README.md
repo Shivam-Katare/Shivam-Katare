@@ -17,7 +17,7 @@ I am 3rd year undergraduate [T-shaped] web developer, Love to contribute to open
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logoColor=white)](https://twitter.com/Shivamkatare_27) 
 [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/shivam-katare)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23ED8B00.svg?style=for-the-badge&logo=circle&logoColor=white&color=blue)](https://shivam-katare.github.io/ShivamKatare_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23ED8B00.svg?style=for-the-badge&logo=circle&logoColor=white&color=blue)](https://shivam-katare.github.io/Portfolio_Website/)
 
 # 💻Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
