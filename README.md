@@ -44,6 +44,7 @@ I am **T-Shaped** web developer, Love to contribute to open source projects and,
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=yellow&color=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Dockers](https://img.shields.io/badge/Docker-039BE5?style=for-the-badge&logo=Docker&logoColor=white)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Shivam-Katare&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
