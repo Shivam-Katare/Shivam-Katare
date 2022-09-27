@@ -13,6 +13,7 @@ I am **T-Shaped** web developer, Love to contribute to open source projects and,
 - :handshake: Fell free to mail me at katare27451@gmail.com for any collaboration.
 - :v: I'm open to opportunities.
 - 🏫 3rd year undergraduate student.
+- ⚡ Fun fact: I like to watch shows and do sketching.
 
 
 ## 🌐Socials
