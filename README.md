@@ -47,6 +47,15 @@ I am **T-Shaped** web developer, Love to contribute to open source projects and,
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Dockers](https://img.shields.io/badge/Docker-039BE5?style=for-the-badge&logo=Docker&logoColor=white)
 
+### 📙 Recent Blogs
+<!-- BLOG-POST-LIST:START -->
+- 📖 [How did I Get Into Tech?](https://www.showwcase.com/show/16926/how-did-i-get-into-tech-mydevstory-gdsaugust)
+- 📖 [Testkube: The Kubernetes-native testing framework](https://blog.kubeworld.org/testkube-the-kubernetes-native-testing-framework)
+- 📖 [Helpful online tools to self-improve as a developer](https://shivamkatareblog.hashnode.dev/helpful-online-tools-to-self-improve-as-a-developer)
+- 📖 [How to Contribute to Open Source Projects? Beginner Guide](https://fuelerhq.hashnode.dev/how-to-contribute-to-open-source-projects-beginner-guide)
+- 📖 [MONOKLE: Manage Your K8s Manifests](https://blog.kubeworld.org/monokle-manage-your-k8s-manifests)
+<!-- BLOG-POST-LIST:END -->
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Shivam-Katare&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Katare&theme=tokyonight&hide_border=true)<br/>
