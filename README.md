@@ -6,7 +6,7 @@ I am **T-Shaped** web developer, Love to contribute to open source projects and,
 🔵 I am always be eager to learn new technologies and ready to try them out. 
 
 # 💫About Me :
-- 🧑 I am interested in Web Development.
+- 🧑 I am interested in Web Development & DevOps.
 - :earth_africa: I love to cotribute to open source projects.
 - 💼 React JS Developer at [AccuKnox](https://www.accuknox.com/)
 - 💻 I am currently learning about DevOps, Next JS and Data Structures.
