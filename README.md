@@ -1,6 +1,6 @@
 # :wave: Hello <b>developers</b>, I am <b>Shivam Katare</b>
 
-I am **T-Shaped** web developer, Love to contribute to open source projects and, Love to share my learnings in public.
+I am a **T-Shaped** web developer, Love to contribute to open source projects, and, Love to share my learnings in public.
 
 🟠 Hungry😋 for More📚 Knowledge 🤠
 🔵 I am always be eager to learn new technologies and ready to try them out. 
