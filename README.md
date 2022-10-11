@@ -47,6 +47,7 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=yellow&color=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Dockers](https://img.shields.io/badge/Docker-039BE5?style=for-the-badge&logo=Docker&logoColor=white)
 <!-- Tech Stack End -->
 
