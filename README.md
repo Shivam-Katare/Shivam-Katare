@@ -1,4 +1,4 @@
-# :wave: Hello <b>developers</b>, I am <b>Shivam Katare</b>
+# :wave: Hello <b>Developers</b>, I am <b>Shivam Katare</b>
 
 I am a **T-Shaped** web developer, Love to contribute to open source projects, and, Love to share my learnings in public.
 
