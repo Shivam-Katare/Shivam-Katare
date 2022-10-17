@@ -18,10 +18,10 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Shivamkatare_27)
-[![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/shivam-katare)
 [![Portfolio](https://img.shields.io/badge/portfolio-%23ED8B00.svg?style=for-the-badge&logo=circle&logoColor=white&color=blue)](https://shivam-katare.github.io/Portfolio_Website/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-katare/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ShivamKatare)
+[![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/shivam-katare)
 
 <!-- Tech Stack Start -->
 # 💻Tech Stack
