@@ -45,6 +45,7 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=yellow&color=blue)
+![Nhost](https://img.shields.io/badge/Nhost-%23ED8B00.svg?style=for-the-badge&logo=Nhost&logoColor=yellow&color=blue)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
