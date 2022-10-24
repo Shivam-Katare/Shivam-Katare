@@ -50,9 +50,9 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Dockers](https://img.shields.io/badge/Docker-039BE5?style=for-the-badge&logo=Docker&logoColor=white)
-<!-- Tech Stack End -->
+<!-- Tech Stack End.   -->
 
-### 📙 Recent Blogs
+### 📙 Recent Blogs 📚
 <!-- BLOG-POST-LIST:START -->
 - 📖 [How did I Get Into Tech?](https://www.showwcase.com/show/16926/how-did-i-get-into-tech-mydevstory-gdsaugust)
 - 📖 [Testkube: The Kubernetes-native testing framework](https://blog.kubeworld.org/testkube-the-kubernetes-native-testing-framework)
