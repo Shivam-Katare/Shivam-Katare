@@ -60,6 +60,7 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 
 
 <!-- BLOG-POST-LIST:START -->
+- 📖 [How to get started with Github Actions?](https://blog.reactplay.io/how-to-get-started-with-github-actions)
 - 📖 [How did I Get Into Tech?](https://www.showwcase.com/show/16926/how-did-i-get-into-tech-mydevstory-gdsaugust)
 - 📖 [Testkube: The Kubernetes-native testing framework](https://blog.kubeworld.org/testkube-the-kubernetes-native-testing-framework)
 - 📖 [Helpful online tools to self-improve as a developer](https://shivamkatareblog.hashnode.dev/helpful-online-tools-to-self-improve-as-a-developer)
