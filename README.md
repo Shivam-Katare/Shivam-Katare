@@ -54,6 +54,7 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Dockers](https://img.shields.io/badge/Docker-039BE5?style=for-the-badge&logo=Docker&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <!-- Tech Stack End.   -->
 
 ### 📙 Recent Blogs 📚
