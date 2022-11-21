@@ -67,7 +67,7 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 - 📖 [Helpful online tools to self-improve as a developer](https://shivamkatareblog.hashnode.dev/helpful-online-tools-to-self-improve-as-a-developer)
 - 📖 [How to Contribute to Open Source Projects? Beginner Guide](https://fuelerhq.hashnode.dev/how-to-contribute-to-open-source-projects-beginner-guide)
 - 📖 [MONOKLE: Manage Your K8s Manifests](https://blog.kubeworld.org/monokle-manage-your-k8s-manifests)
-- 📖 [React JSX: A Complete Guide](https://tealfeed.com/complete-guide-jsx-6teou)
+- 📖 [Getting Started with CI/CD](https://www.showwcase.com/show/18548/what-is-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊GitHub Stats :
