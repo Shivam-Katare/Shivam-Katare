@@ -9,10 +9,11 @@ I am a **T-Shaped** web developer, Love to contribute to open source projects, a
 - 🧑 I am interested in Web Development & DevOps.
 - :earth_africa: I love to cotribute to open source projects.
 - 💼 React JS Developer at [AccuKnox](https://www.accuknox.com/)
+- 🤝 Contributer at [ReactPlay](https://reactplay.io/)
 - 💻 I am currently learning about DevOps, Next JS and Data Structures.
 - :handshake: Fell free to mail me at katare27451@gmail.com for any collaboration.
 - :v: I'm open to opportunities.
-- 🏫 3rd year undergraduate student.
+- 🏫 Graduated Computer Science Student.
 - ⚡ Fun fact: I like to watch shows and do sketching.
 
 
