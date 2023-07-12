@@ -18,14 +18,14 @@
 <h2> About Me<span> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 70px height='70px'></span></h2>
   <ul>
     
-- 🧑 I'm a passionate web developer and DevOps enthusiast who loves to create and contribute to open source projects.
-- 💼 I work as a React JS developer at [AccuKnox](https://www.accuknox.com/), a cloud-native security platform.
+- 🧑 I'm a passionate web developer and DevOps enthusiast who loves to create and contribute to open-source projects.
+- 💼 I work as a Software Engineer at [Flagright](https://www.flagright.com/).
 - 🤝 I'm also a contributor at [ReactPlay](https://reactplay.io/), a playground for React developers.
-- 💻 I'm always eager to learn new things and improve my skills, so I'm currently exploring Next JS, Machine Learning and other topics that interest me.
+- 💻 I'm always eager to learn new things and improve my skills, so I'm currently exploring Next JS, Machine Learning, and other topics that interest me.
 - 📝 I also enjoy technical writing and sharing my knowledge with others through <a href="https://personal-portfolio-ebon-mu.vercel.app/blogs" target="_blank">blogs</a> and tutorials.
 - :handshake: I'm always open to new opportunities and collaborations, so feel free to reach out to me at <a href="mailto:katare27451@gmail.com" target="_blank"> my email </a>.
 - 🤗 I always enjoy talking about community, events, hackathons, and technology You can know more about my professional experience <a href="https://personal-portfolio-ebon-mu.vercel.app/" target="_blank">here</a>.
-- 🏫 I have a degree in computer science and in my spare time, I like to watch shows and draw sketch.
+- 🏫 I have a degree in computer science and in my spare time, I like to watch shows and draw sketches.
 - ⚡ Fun fact: I can draw a dragon! 🐉
 
   </ul>
