@@ -90,7 +90,8 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 [CYBERSECURITY 101 Protecting Yourself in the Digital World](https://shivamkatareblog.hashnode.dev/cybersecurity-101-protecting-yourself-in-the-digital-world)
+- 📖 [Unleashing the Power of Aliases](https://blog.reactplay.io/unleashing-the-power-of-aliases-simplify-your-javascript-imports)
+- 📖 [Mastering TypeScript: A Comprehensive Guide for Getting Started with TypeScript](https://blog.reactplay.io/mastering-typescript-a-comprehensive-guide-for-getting-started-with-typescript)
 - 📖 [THE POWER OF OPEN SOURCE: How Collaboration is Revolutionizing Tech](https://shivamkatareblog.hashnode.dev/the-power-of-open-source-how-collaboration-is-revolutionizing-tech)
 - 📖 [Testkube: The Kubernetes-native testing framework](https://blog.kubeworld.org/testkube-the-kubernetes-native-testing-framework)
 - 📖 [Helpful online tools to self-improve as a developer](https://shivamkatareblog.hashnode.dev/helpful-online-tools-to-self-improve-as-a-developer)
