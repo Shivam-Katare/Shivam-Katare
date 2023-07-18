@@ -6,7 +6,7 @@
 <p align='center'>
   
 </p>
-  <div size='20px'>I am a <b>FullStack Web Developer</b>, <b>Open-Source</b>, and <b>DevOps</b> enthusiast. I love to write <b>Technical Blogs</b>, and <b>Learn In Public</b>
+  <div size='20px'>I am a <b>FullStack Web Developer</b>, <b>Open-Source</b>, and <b>DevOps</b> enthusiast. I love to write <b>Technical Blogs</b>, and <b>Learn In Public </b>
 </div>
   <h6>
 🟠 Hungry😋 for More📚 Knowledge 🤠
