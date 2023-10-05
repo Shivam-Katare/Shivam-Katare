@@ -84,7 +84,7 @@
 <a href = 'https://www.showwcase.com/shivam-katare'> <img width = '32px' align= 'center' src="https://www.freeiconspng.com/thumbs/world-icon-png/world-icon-png-6.png"/></a>
 <a href = 'https://shivamkatareblog.hashnode.dev/'> <img width = '32px' align= 'center' src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/></a>
 
-  <br /><br />
+  <br /> <br />
   
 ## 📙 Recent Blogs 📚
 
