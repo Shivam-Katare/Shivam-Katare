@@ -1,6 +1,6 @@
 <!---<div align="center">
 <img width="100%" height = "250px" src="https://res.cloudinary.com/dbjmy6wdu/image/upload/v1680006498/Blue_Gradient_Modern_Youtube_Intro_do34jl.png" alt="cover" />
-</div> --->
+</div> --->  
 
 <h1> Hi I'm < Shivam/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
