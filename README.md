@@ -26,7 +26,6 @@
 - :handshake: I'm always open to new opportunities and collaborations, so feel free to reach out to me at <a href="mailto:katare27451@gmail.com" target="_blank"> my email </a>.
 - 🤗 I always enjoy talking about community, events, hackathons, and technology You can know more about my professional experience <a href="https://personal-portfolio-ebon-mu.vercel.app/" target="_blank">here</a>.
 - 🏫 I have a degree in computer science and in my spare time, I like to watch shows and draw sketches.
-- ⚡ Fun fact: I can draw a dragon! 🐉
 
   </ul>
 
