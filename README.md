@@ -12,9 +12,7 @@
 🟠 Hungry😋 for More📚 Knowledge 🤠
 🔵 , and always be eager to learn new technologies and ready to try them out. 
   </h6>
-  
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Shivam-Katare.https://github.com/Shivam-Katare) -->
-  
+    
 <h2> About Me<span> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 70px height='70px'></span></h2>
   <ul>
     
