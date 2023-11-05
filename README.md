@@ -17,7 +17,7 @@
   <ul>
     
 - 🧑 I'm a passionate web developer and DevOps enthusiast who loves to create and contribute to open-source projects.
-- 💼 I work as a Software Engineer at [Flagright](https://www.flagright.com/).
+- 💼 I work as a Frontend Developer at [Triallies](https://triallies.com/).
 - 🤝 I'm also a contributor at [ReactPlay](https://reactplay.io/), a playground for React developers.
 - 💻 I'm always eager to learn new things and improve my skills, so I'm currently exploring Next JS, Machine Learning, and other topics that interest me.
 - 📝 I also enjoy technical writing and sharing my knowledge with others through <a href="https://personal-portfolio-ebon-mu.vercel.app/blogs" target="_blank">blogs</a> and tutorials.
@@ -80,7 +80,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 [Mastering TypeScript: A Comprehensive Guide for Getting Started with TypeScript](https://blog.reactplay.io/mastering-typescript-a-comprehensive-guide-for-getting-started-with-typescript)
+- 📖 [What did I achieve after planning a month](https://shivamkatareblog.hashnode.dev/what-did-i-achieve-after-planning-a-month)
 - 📖 [THE POWER OF OPEN SOURCE: How Collaboration is Revolutionizing Tech](https://shivamkatareblog.hashnode.dev/the-power-of-open-source-how-collaboration-is-revolutionizing-tech)
 - 📖 [Testkube: The Kubernetes-native testing framework](https://blog.kubeworld.org/testkube-the-kubernetes-native-testing-framework)
 - 📖 [Helpful online tools to self-improve as a developer](https://shivamkatareblog.hashnode.dev/helpful-online-tools-to-self-improve-as-a-developer)
