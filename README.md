@@ -80,13 +80,6 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 [What did I achieve after planning a month](https://shivamkatareblog.hashnode.dev/what-did-i-achieve-after-planning-a-month)
-- 📖 [THE POWER OF OPEN SOURCE: How Collaboration is Revolutionizing Tech](https://shivamkatareblog.hashnode.dev/the-power-of-open-source-how-collaboration-is-revolutionizing-tech)
-- 📖 [Testkube: The Kubernetes-native testing framework](https://blog.kubeworld.org/testkube-the-kubernetes-native-testing-framework)
-- 📖 [Helpful online tools to self-improve as a developer](https://shivamkatareblog.hashnode.dev/helpful-online-tools-to-self-improve-as-a-developer)
-- 📖 [How to Contribute to Open Source Projects? Beginner Guide](https://fuelerhq.hashnode.dev/how-to-contribute-to-open-source-projects-beginner-guide)
-- 📖 [MONOKLE: Manage Your K8s Manifests](https://blog.kubeworld.org/monokle-manage-your-k8s-manifests)
-- 📖 [Getting Started with CI/CD](https://www.showwcase.com/show/18548/what-is-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊GitHub Stats :
