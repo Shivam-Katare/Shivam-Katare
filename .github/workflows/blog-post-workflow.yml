@@ -1,71 +1,23 @@
-name: Latest blog post workflow
+name: 'Hashnode Blogs'
+
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *' # Run every 5 minutes
+    - cron: '*/5 * * * *'
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts from Hashnode
+  update_blogs:
+    name: 'Hashnode Latest Blogs'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: 'Fetch Repository Contents'
+        uses: actions/checkout@main
+
+      - name: 'Hashnode Blog Action'
+        uses: 'Shivam-Katare/hashnode-blog-action@main'
         with:
-          node-version: 12
-      - name: Fetch latest blog posts
-        run: |
-          const fetch = require('node-fetch');
-          const fs = require('fs');
-
-          const graphqlEndpoint = 'https://gql.hashnode.com/';
-
-          const query = `
-            query {
-              user(username: "Shivam-Katare") {
-                publication {
-                  posts(page: 0, limit: 6) {
-                    title
-                    brief
-                    slug
-                    coverImage
-                  }
-                }
-              }
-            }
-          `;
-
-          fetch(graphqlEndpoint, {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({ query }),
-          })
-            .then((response) => response.json())
-            .then((data) => {
-              const posts = data.data.user.publication.posts;
-              let readme = fs.readFileSync('./README.md', 'utf8');
-
-              const marker = '<!-- BLOG-POST-LIST:START -->';
-              const endMarker = '<!-- BLOG-POST-LIST:END -->';
-
-              const startIndex = readme.indexOf(marker) + marker.length;
-              const endIndex = readme.indexOf(endMarker);
-
-              const blogPostList = posts
-                .map((post) => `![Cover Image](${post.coverImage})
-                - [${post.title}](https://shivam-katare.hashnode.dev/${post.slug})
-                - ${post.brief}`)
-                .join('\n');
-
-              readme =
-                readme.substring(0, startIndex) +
-                '\n' +
-                blogPostList +
-                '\n' +
-                readme.substring(endIndex);
-
-              fs.writeFileSync('./README.md', readme);
-            });
+          HASHNODE_PUBLICATION_NAME: 'blog.hashnode.dev'
+          POST_COUNT: 6
+          FORMAT: 'list'
         env:
-          CI: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
