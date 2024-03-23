@@ -79,8 +79,9 @@
 ## 📙 Recent Blogs 📚
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Shivam-Katare&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)<br/>
