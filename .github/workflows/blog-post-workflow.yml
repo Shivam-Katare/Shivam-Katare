@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *' # Run every 5 minutes
 
 jobs:
   update-readme-with-blog:
@@ -53,11 +53,9 @@ jobs:
               const endIndex = readme.indexOf(endMarker);
 
               const blogPostList = posts
-                .map((post) => {return ` ![Cover Image](${post.coverImage})
+                .map((post) => `![Cover Image](${post.coverImage})
                 - [${post.title}](https://shivam-katare.hashnode.dev/${post.slug})
-                - ${post.brief}
-                `;
-                })
+                - ${post.brief}`)
                 .join('\n');
 
               readme =
