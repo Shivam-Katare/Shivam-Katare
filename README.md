@@ -80,6 +80,8 @@
 
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://shivamkatareblog.hashnode.dev/how-to-build-an-otp-login-system-with-react-and-supabase" title="How to build an OTP Login System with React and Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711765599214/bc5383ee-a47b-414e-94b8-9940449fc834.png" alt="How to build an OTP Login System with React and Supabase" width="300px" align="left" /></a><a href="https://shivamkatareblog.hashnode.dev/how-to-build-an-otp-login-system-with-react-and-supabase" title="How to build an OTP Login System with React and Supabase"><strong>How to build an OTP Login System with React and Supabase</strong></a><div><strong>March 30, 2024</strong></div><br/>Today, OTP Login is one of the secure ways to log into our system. And, today, we're going to build the same thing. We'll be building an app where there will be a login page and a dashboard page. So, ...</p><br/><br/>
+
 <p align="left"><a href="https://shivamkatareblog.hashnode.dev/how-to-get-better-at-javascript-simple-steps-for-improvement" title="How to get better at JavaScript: Simple Steps for Improvement"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708183433125/c7056f76-12cb-4913-b3d4-83edffc27a93.png" alt="How to get better at JavaScript: Simple Steps for Improvement" width="300px" align="left" /></a><a href="https://shivamkatareblog.hashnode.dev/how-to-get-better-at-javascript-simple-steps-for-improvement" title="How to get better at JavaScript: Simple Steps for Improvement"><strong>How to get better at JavaScript: Simple Steps for Improvement</strong></a><div><strong>February 18, 2024</strong></div><br/>Hello reader, 👋
 Are you a developer, learning JavaScript, or working with JavaScript and its libraries and frameworks? Well, as a web developer, we all do these things. We follow some path and learn ...</p><br/><br/>
 
@@ -94,9 +96,6 @@ Wh...</p><br/><br/>
 
 <p align="left"><a href="https://shivamkatareblog.hashnode.dev/create-a-stunning-image-horizontal-slider-using-css" title="Create a Stunning Image Horizontal Slider using CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693626751827/a5700fcf-319d-416d-ba6a-77e1a8dc9127.png" alt="Create a Stunning Image Horizontal Slider using CSS" width="300px" align="left" /></a><a href="https://shivamkatareblog.hashnode.dev/create-a-stunning-image-horizontal-slider-using-css" title="Create a Stunning Image Horizontal Slider using CSS"><strong>Create a Stunning Image Horizontal Slider using CSS</strong></a><div><strong>September 2, 2023</strong></div><br/>Hello there! I am Shivam,
 Today I'm going to show you how to create an interactive image slider for your website. A well-styled image slider can enhance the visual experience for your users and engagi...</p><br/><br/>
-
-<p align="left"><a href="https://shivamkatareblog.hashnode.dev/snowfall-effect-using-css-and-javascript-animations" title="SnowFall effect using CSS and JavaScript Animations"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693187404552/0831f424-c517-448a-9cc1-d4d2d89d5c58.gif" alt="SnowFall effect using CSS and JavaScript Animations" width="300px" align="left" /></a><a href="https://shivamkatareblog.hashnode.dev/snowfall-effect-using-css-and-javascript-animations" title="SnowFall effect using CSS and JavaScript Animations"><strong>SnowFall effect using CSS and JavaScript Animations</strong></a><div><strong>August 28, 2023</strong></div><br/>Hello there! I am Shivam,
-Today I'm going to show you how to create a beautiful falling snow effect for any webpage. Wouldn't that look amazing on your blog or portfolio site during the winter holiday...</p><br/><br/>
 
 
 <!-- HASHNODE_BLOG:END -->
