@@ -15,6 +15,7 @@
     
 <h2> About Me<span> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 70px height='70px'></span></h2>
   <ul>
+  
     
 - 🧑 I'm a passionate web developer and DevOps enthusiast who loves to create and contribute to open-source projects.
 - 💼 I work as a Frontend Developer at [Triallies](https://triallies.com/).
